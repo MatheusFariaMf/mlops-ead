@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mathe/OneDrive/Documents/POS_GRADUACAO/MLOps/mlops-ead/mlruns/0/372b512a40d1447f8003db1356c9f66c/artifacts
+end_time: 1750728387868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 372b512a40d1447f8003db1356c9f66c
+run_name: experiment_mlops_ead
+run_uuid: 372b512a40d1447f8003db1356c9f66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750728380822
+status: 3
+tags: []
+user_id: mathe
